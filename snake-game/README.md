@@ -1,19 +1,13 @@
 # Purpose:
 
 The purpose of this repo is to test and evaluate the embedded feature annotations plugin
-[HAnS](https://bitbucket.org/easelab/hans-text/src) for IntelliJ.
+[HAnS](https://github.com/isselab/HAnS) for IntelliJ.
 
 ### Requirements:
 
 * IntelliJ installed
 * Recommended JDK 14
 * Installed HAnS plugin
-
-### Installation of the HAnS plugin:
-
-* Open Plugins in Settings/Preferences. Click the settings icon and select "Install Plugin from Disk..."
-  ![alt tag](./guide/guide.png)
-* Choose the path to the zip file of the plugin.
 
 ## The Snake
 
@@ -117,7 +111,7 @@ extension `.feature-to-folder` as below. Features must be separated by either sp
 ## HAnS: Helping Annotate Software
 The purpose of HAnS is to enable recording and editing support for feature annotations.
 
-#### HAnS-text supports:
+#### HAnS supports:
 * Embedded Feature Annotations
 * Syntax Highlighting
 * Code Completion
@@ -125,19 +119,6 @@ The purpose of HAnS is to enable recording and editing support for feature annot
 * Refactoring
 * Feature Model View
 * Live Templates
-
-### Feature Model View
-The Feature Model View, from HAnS, is a representation of the feature model. It is available as a tool window at the
-bottom left of the display (see below). 
-
-![alt tag](./guide/guide_to_tool_window.png)
-
-The Feature Model View supports adding, removing and renaming of features (via refactoring) as well as finding the 
-usages of features and opening the Feature Model file by jumping to source. These actions make the corresponding changes
-to the Feature Model file automatically. If the Feature Model file is changed manually, the Feature Model View is 
-updated automatically.
-
-![alt tag](./guide/dark_structure.png)
 
 ### Live Templates
 Live templates are used to insert common constructs into your code. HAnS supports a couple of live templates:
