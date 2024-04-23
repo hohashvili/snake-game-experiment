@@ -7,7 +7,7 @@ The purpose of this repo is to test and evaluate the embedded feature annotation
 
 * IntelliJ installed
 * Recommended JDK 14
-* Installed HAnS-text plugin
+* Installed HAnS plugin
 
 ### Installation of the HAnS plugin:
 
