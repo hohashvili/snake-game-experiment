@@ -154,7 +154,3 @@ Live templates can also be used to surround marked code. To use this mark the co
 and choose the template you want to surround the code with. It can also be found via the right-click menu in the editor.
 
 ![surround_with_live_template.png](./guide/Surround_with_live_template.png)
-
-## Study Group
-* [Group 1](./guide/group1.md)
-* [Group 2](./guide/group2.md)
